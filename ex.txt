@@ -1,2 +1,1 @@
-This is an example file
-This is an addition to that file.
+This is an example file. Here is edit
